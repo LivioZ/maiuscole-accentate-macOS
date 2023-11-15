@@ -18,3 +18,5 @@ A questo punto fare log out ( -> "Esegui il logout da...") e fare di nuovo il
 Una volta fatto, se dà fastidio l'icona, è possibile nasconderla tenendo premuto `Command ⌘` e trascinando l'icona fuori dalla barra finché compare una X, a questo punto rilasciare i tasti.
 
 P.S.: su MacOS è possibile tenere premuti i tasti delle lettere per fare le versioni maiuscole con gli accenti, tuttavia lo trovo comunque più lento e meno intuitivo rispetto a premere direttamente i tasti delle lettere accentate.
+
+Creato con [Ukelele](https://software.sil.org/ukelele/)
